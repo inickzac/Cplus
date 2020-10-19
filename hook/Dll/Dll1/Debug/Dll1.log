@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1205,5): warning MSB8012: TargetPath(C:\Users\Пылесос\source\new\Dll1\Debug\Dll1.dll) не соответствует значению свойства выходного файла (D:\os\ipr2\Dll1.dll) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+  Dll1.vcxproj -> C:\Users\Пылесос\source\new\Dll1\Debug\Dll1.dll

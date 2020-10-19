@@ -1,0 +1,10 @@
+C:\Users\Пылесос\source\repos\ipr1\ipr1\bin\Debug\ipr1.exe.config
+C:\Users\Пылесос\source\repos\ipr1\ipr1\bin\Debug\ipr1.exe
+C:\Users\Пылесос\source\repos\ipr1\ipr1\bin\Debug\ipr1.pdb
+C:\Users\Пылесос\source\repos\ipr1\ipr1\obj\Debug\ipr1.csprojAssemblyReference.cache
+C:\Users\Пылесос\source\repos\ipr1\ipr1\obj\Debug\ipr1.Form1.resources
+C:\Users\Пылесос\source\repos\ipr1\ipr1\obj\Debug\ipr1.Properties.Resources.resources
+C:\Users\Пылесос\source\repos\ipr1\ipr1\obj\Debug\ipr1.csproj.GenerateResource.cache
+C:\Users\Пылесос\source\repos\ipr1\ipr1\obj\Debug\ipr1.csproj.CoreCompileInputs.cache
+C:\Users\Пылесос\source\repos\ipr1\ipr1\obj\Debug\ipr1.exe
+C:\Users\Пылесос\source\repos\ipr1\ipr1\obj\Debug\ipr1.pdb
